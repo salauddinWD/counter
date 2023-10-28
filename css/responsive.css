@@ -1,0 +1,179 @@
+@media (max-width: 575px) { 
+    #blood_counter .blooddonate_image {
+        width: 296px;
+    }
+    .blooddonate_countermain{
+        gap: 8px;
+    }
+
+    .blooddonate_text {
+        width: 100%;
+        gap: 5px;
+    }
+
+    .blooddonate_text h2 {
+        font-size: 28px;
+        margin-top: 8px;
+    }
+    .blooddonate_text p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .blooddonate_counter {
+        padding: 10px;
+       
+    }
+    .blooddonate_icon span {
+        font-size: 15px;
+    }
+    .blooddonate_counter h2 {
+        font-size: 15px;
+    }
+    .blooddonate_counter p {
+        margin-bottom: 0rem;
+        font-size: 10px;
+        width: 115px;
+    }
+    .countercol3{
+        width: 48%;
+        max-width: 76%;
+    }
+
+ }
+
+
+@media (min-width: 576px) and (max-width: 767px) { 
+    #blood_counter .blooddonate_image {
+        width: 258px;
+    }
+    .blooddonate_main {
+        margin-bottom: 14px;
+    }
+    .blooddonate_countermain{
+        gap: 8px;
+    }
+    .col4{
+        width: 50%;
+    }
+    .blooddonate_text {
+        width: 100%;
+        gap: 5px;
+    }
+
+    .blooddonate_text h2 {
+        font-size: 18px;
+        margin-top: -10px;
+    }
+    .blooddonate_text p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .blooddonate_counter {
+        padding: 20px;
+       
+    }
+    .blooddonate_icon span {
+        font-size: 20px;
+    }
+    .blooddonate_counter h2 {
+        font-size: 20px;
+    }
+    .blooddonate_counter p {
+        margin-bottom: 0rem;
+        font-size: 13px;
+    }
+    .countercol3{
+        width: 49%;
+        max-width: 100%;
+    }
+
+ }
+
+
+@media (min-width: 768px) and (max-width: 991px) { 
+        #blood_counter .blooddonate_image {
+            width: 330px;
+        }
+        .blooddonate_main {
+            margin-bottom: 20px;
+        }
+        .blooddonate_countermain{
+            gap: 8px;
+        }
+        .col4{
+            width: 50%;
+        }
+        .blooddonate_text {
+            width: 100%;
+            gap: 5px;
+        }
+    
+        .blooddonate_text h2 {
+            font-size: 22px;
+            margin-top: 0px;
+        }
+        .blooddonate_text p {
+            font-size: 13px;
+            line-height: 16px;
+        }
+        .blooddonate_counter {
+            padding: 20px;
+           
+        }
+        .blooddonate_icon span {
+            font-size: 25px;
+        }
+        .blooddonate_counter h2 {
+            font-size: 25px;
+        }
+        .blooddonate_counter p {
+            margin-bottom: 0rem;
+            font-size: 19px;
+        }
+        .countercol3{
+            width: 49%;
+            max-width: 100%;
+        }
+    
+
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #blood_counter .blooddonate_image {
+        width: 305px;
+    }
+
+     
+    }
+    .blooddonate_text {
+  width: 100%;
+    }
+
+    .blooddonate_text h2 {
+      font-size: 20px;
+    }
+
+
+@media (min-width: 1200px) and (max-width: 1399px) { 
+    #blood_counter .blooddonate_image {
+        width: 360px;
+    }
+    .blooddonate_text {
+        width: 100%;
+          }
+          
+          .blooddonate_counter p {
+            font-size: 14px;
+        }
+        .blooddonate_icon span {
+            font-size: 25px;
+        }
+        .blooddonate_counter h2 {
+            font-size: 25px;
+        }
+  
+ }
+
+
+@media (min-width: 1400px) {  }

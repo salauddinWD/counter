@@ -1,0 +1,65 @@
+
+#blood_counter{
+  padding: 100px 0;
+background-color: rgba(251, 35, 35, 0.43);
+}
+
+
+#blood_counter .blooddonate_image{
+  width: 400px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.blooddonate_main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.blooddonate_text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 850px;
+  gap: 20px;
+}
+.blooddonate_text h2{
+  font-size: 30px;
+  font-weight: 600;
+  color: black;
+  
+}
+.blooddonate_text p{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #1d1c1c;
+  
+}
+
+
+.blooddonate_counter{
+  padding: 20px;
+  background-color: red;
+  border-radius: 18px;
+}
+.blooddonate_icon{
+  display: flex;
+  gap: 10px;
+}
+.blooddonate_icon span{
+font-size: 30px;
+color: white;
+}
+
+.blooddonate_counter h2{
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+.blooddonate_counter p{
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+}
